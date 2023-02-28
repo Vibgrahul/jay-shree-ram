@@ -1,0 +1,5 @@
+cpp:
+    1)inline functions
+    2)default arguments
+    3)reference variable
+    4)functions overloading
