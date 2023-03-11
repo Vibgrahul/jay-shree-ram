@@ -6,3 +6,4 @@ cpp:
     5)structures in cpp
     6)encapsulation
     //**robert lafore is best book for cpp
+    7)data hiiding(data security)
