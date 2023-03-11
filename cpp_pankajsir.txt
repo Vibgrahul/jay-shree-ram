@@ -3,3 +3,6 @@ cpp:
     2)default arguments
     3)reference variable
     4)functions overloading
+    5)structures in cpp
+    6)encapsulation
+    //**robert lafore is best book for cpp
